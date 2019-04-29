@@ -11,7 +11,7 @@ namespace MyProducts.WebApi.Models
         // For more information refer to the documentation:
         // http://msdn.microsoft.com/en-us/data/jj591621.aspx
     
-        public ProductsContext() : base("name=ProductsContext")
+        public ProductsContext() : base("name=myconstring")
         {
         }
 
